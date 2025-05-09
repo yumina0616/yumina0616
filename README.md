@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 
+<a href="mailto:youmina0616@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=youmina0616@gmail.com"/></a>
+
 
